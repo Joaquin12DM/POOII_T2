@@ -32,3 +32,4 @@ C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\Domai
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DomainLayer\obj\Debug\net7.0\refint\DomainLayer.dll
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DomainLayer\obj\Debug\net7.0\DomainLayer.pdb
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DomainLayer\obj\Debug\net7.0\ref\DomainLayer.dll
+C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DomainLayer\obj\Debug\net7.0\DomainLayer.sourcelink.json

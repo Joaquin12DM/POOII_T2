@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataLayer.DTO
+namespace DomainLayer.DTO
 {
     public class ProductoCategoriaDTO
     {

@@ -1,5 +1,5 @@
 ﻿using DataLayer;
-using DataLayer.DTO;
+using DomainLayer.DTO;
 using EntityLayer.Models;
 
 namespace DomainLayer

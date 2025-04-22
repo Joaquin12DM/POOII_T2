@@ -21,3 +21,4 @@ C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\Entit
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\EntityLayer\obj\Debug\net7.0\EntityLayer.sourcelink.json

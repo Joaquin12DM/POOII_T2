@@ -32,3 +32,4 @@ C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DataL
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DataLayer\obj\Debug\net7.0\DataLayer.pdb
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
 C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
+C:\Users\joaqu\Downloads\POOII_T2_DELGADO_JOAQUIN\POOII_T2_DELGADO_JOAQUIN\DataLayer\obj\Debug\net7.0\DataLayer.sourcelink.json

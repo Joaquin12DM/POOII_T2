@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOII_T2_DELGADO_JOAQUIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+837fcc72be5f4edd541838cb49bc4575a26e960d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22191192ec5e3cb7c3d4c8795b0a2300887d1d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOII_T2_DELGADO_JOAQUIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOII_T2_DELGADO_JOAQUIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
