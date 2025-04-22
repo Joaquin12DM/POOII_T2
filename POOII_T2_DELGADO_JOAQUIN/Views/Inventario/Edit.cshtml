@@ -9,7 +9,7 @@
 
 
 
-<div class="card">
+<div class="card" style="width:50%;">
     <div class="card-header">
         <h1>@TempData["Title"]</h1>
     </div>
@@ -44,11 +44,14 @@
                 </select>
                 <span asp-validation-for="Idcategoria" class="text-danger"></span>
             </div>
-
-            <button type="submit" class="btn btn-primary">Actualizar</button>
+            <div style="margin-top:20px;">
+                <button type="submit" class="btn btn-primary">Actualizar</button>
+            </div>
         </form>
-
-        <p style="color:green;">@ViewBag.mensaje</p>
+        <div style="text-align:center;margin-top:20px;">
+            <p style="color:green;font-size:20px;">@ViewBag.mensaje</p>
+        </div>
+        
     </div>
 
 </div>

@@ -10,36 +10,37 @@
 <h1>@TempData["Title"]</h1>
 <a asp-action="NuevoProducto" class="btn btn-success">Crear nuevo producto</a>
 
-
-<table class="table">
+<table class="table table-bordered" style="text-align:center;">
     <thead>
         <tr>
-            <th>ID Producto</th>
-            <th>Nombre</th>
-            <th>Descripcion</th>
-            <th>Categoria</th>
-            <th>Estado</th>
-            <th>Fecha Registro</th>
-            <th>Acciones</th>
+            <th style="width: 5%;">ID</th>
+            <th style="width: 15%;">Nombre</th>
+            <th style="width: 20%;">Descripción</th>
+            <th style="width: 10%;">Categoría</th>
+            <th style="width: 10%;">Precio</th>
+            <th style="width: 5%;">Stock</th>
+            <th style="width: 12%;">Fecha</th>
+            <th style="width: 5%;">Estado</th>
+            <th style="width: 25%;">Acciones</th>
         </tr>
     </thead>
     <tbody>
-        @foreach(var producto in Model)
+        @foreach (var producto in Model)
         {
             <tr>
                 <td>@producto.Idproducto</td>
                 <td>@producto.Nombre</td>
                 <td>@producto.Descripcion</td>
                 <td>@producto.NombreCategoria</td>
-                <td>@producto.Estado</td>
+                <td>S/ @producto.PrecioUnitario</td>
+                <td>@producto.Stock</td>
                 <td>@producto.FechaRegistro</td>
+                <td>@producto.Estado</td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@producto.Idproducto" class="btn btn-primary">Edit</a>
-                    <a asp-action="Eliminar" asp-route-id="@producto.Idproducto" class="btn btn-danger">Delete </a>
+                    <a asp-action="Edit" asp-route-id="@producto.Idproducto" class="btn btn-primary btn-sm">Editar</a>
+                    <a asp-action="Eliminar" asp-route-id="@producto.Idproducto" class="btn btn-danger btn-sm">Eliminar</a>
                 </td>
-
             </tr>
         }
-        
     </tbody>
 </table>
