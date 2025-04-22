@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3376F36E-B55B-4EC5-BE95-C236766E8A1B}|DataLayer\\DataLayer.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\datalayer\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3376F36E-B55B-4EC5-BE95-C236766E8A1B}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\views\\inventario\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\views\\inventario\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "InventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\DataLayer\\InventarioRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\InventarioRepository.cs",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\DataLayer\\InventarioRepository.cs",
+              "RelativeToolTip": "DataLayer\\InventarioRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:30:35.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Shared\\_Layout.cshtml",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T22:06:58.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T22:06:58.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Eliminar.cshtml",
               "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Eliminar.cshtml",
               "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Eliminar.cshtml",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
               "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T22:00:30.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T22:00:30.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NuevoProducto.cshtml",
               "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
               "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T21:56:32.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T21:56:32.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TbProducto.cs",
               "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\EntityLayer\\Models\\TbProducto.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Models\\TbProducto.cs",
@@ -102,8 +116,7 @@
               "RelativeToolTip": "EntityLayer\\Models\\TbProducto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:45:13.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T21:45:13.898Z"
             }
           ]
         }
