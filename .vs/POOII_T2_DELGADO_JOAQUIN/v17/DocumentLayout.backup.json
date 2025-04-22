@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\views\\inventario\\nuevoproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\views\\inventario\\nuevoproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\views\\inventario\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\views\\inventario\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\views\\inventario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\views\\inventario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\views\\inventario\\indexproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\views\\inventario\\indexproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E76D-FB16-40B4-8FEF-240EE096F8BE}|POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN.csproj|solutionrelative:pooii_t2_delgado_joaquin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3376F36E-B55B-4EC5-BE95-C236766E8A1B}|DataLayer\\DataLayer.csproj|c:\\users\\joaqu\\downloads\\pooii_t2_delgado_joaquin\\pooii_t2_delgado_joaquin\\datalayer\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3376F36E-B55B-4EC5-BE95-C236766E8A1B}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Eliminar.cshtml",
+              "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T16:45:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
+              "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T16:44:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Program.cs",
+              "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Program.cs",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Program.cs",
+              "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:41:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
+              "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
+              "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\NuevoProducto.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T16:34:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\IndexProducto.cshtml",
+              "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\IndexProducto.cshtml",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\IndexProducto.cshtml",
+              "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Views\\Inventario\\IndexProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T16:33:01.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "POOII_T2_DELGADO_JOAQUIN\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "POOII_T2_DELGADO_JOAQUIN\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:31:14.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\DataLayer\\InventarioRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\InventarioRepository.cs",
+              "ToolTip": "C:\\Users\\joaqu\\Downloads\\POOII_T2_DELGADO_JOAQUIN\\POOII_T2_DELGADO_JOAQUIN\\DataLayer\\InventarioRepository.cs",
+              "RelativeToolTip": "DataLayer\\InventarioRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:30:16.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

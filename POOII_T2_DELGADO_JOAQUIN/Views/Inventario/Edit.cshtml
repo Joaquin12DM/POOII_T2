@@ -1,0 +1,60 @@
+﻿@using EntityLayer.Models
+@model TbProducto
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    TempData["Title"] = "Editar Producto";
+}
+
+
+
+<div class="card">
+    <div class="card-header">
+        <h1>@TempData["Title"]</h1>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit" method="post" onsubmit="return confirmUpdate()">
+            <input type="hidden" asp-for="Idproducto" />
+            <div class="form-group">
+                <label asp-for="Nombre" class="form-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Descripcion" class="form-label"></label>
+                <textarea asp-for="Descripcion" class="form-control"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PrecioUnitario" class="form-label"></label>
+                <input asp-for="PrecioUnitario" class="form-control" type="number" step="0.01" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Stock" class="form-label"></label>
+                <input asp-for="Stock" class="form-control" type="number" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Idcategoria" class="form-label"></label>
+                <select asp-for="Idcategoria" class="form-select" asp-items="ViewBag.Categorias">
+                    <option value="">-- Seleccionar categoría --</option>
+                </select>
+                <span asp-validation-for="Idcategoria" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Actualizar</button>
+        </form>
+
+        <p style="color:green;">@ViewBag.mensaje</p>
+    </div>
+
+</div>
+
+<script>
+    function confirmUpdate() {
+        return confirm("¿Está seguro de que desea actualizar este producto?");
+    }
+</script>

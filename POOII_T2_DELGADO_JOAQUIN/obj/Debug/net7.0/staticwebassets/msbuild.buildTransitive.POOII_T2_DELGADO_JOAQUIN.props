@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\POOII_T2_DELGADO_JOAQUIN.props" />
+</Project>
